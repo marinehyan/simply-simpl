@@ -1,2 +1,2 @@
-var x = "yellow";
-console.log(x);
+var color = "yellow";
+console.log(color);
